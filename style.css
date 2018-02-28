@@ -1,5 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Nunito);
-@media all and (max-width: 900px) {
+@media all (max-width: 900px) {
   .side_article { /* Hide advertisement panel*/
       display: none;
       visibility: hidden;
@@ -14,7 +14,7 @@
   }
 } 
 
-@media all and (max-width: 700px) {
+@media all (max-width: 700px) {
 
   header {
       height: 90px; 
@@ -31,7 +31,7 @@
   }
 } 
 
-@media all and (max-width: 500px) {
+@media all (max-width: 500px) {
   header {
       height: 70px;
       line-height: 70px;
