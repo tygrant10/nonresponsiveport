@@ -73,25 +73,25 @@ body {
 }
 
 .icons {
-    display: grid;
-    grid-template-columns: auto auto;
-    color: #111;
-    width: 25%;
-    text-align: center;
-    margin-right: auto;
-    margin-left: auto;
-    margin-top: 35px;
+	displace: grid;
+	grid-template-columns: auto auto;
+	color: #111;
+	width: 25%;
+	text-align: center;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 35px;
 }
 
-.icons img{
-    display: grid;
-    grid-template-columns: auto auto;
-    color: #111;
-    width: 25%;
-    text-align: center;
-    margin-right: auto;
-    margin-left: auto;
-    margin-top: 35px;
+.icons img {
+	display: grid;
+	grid-template-coluns: auto auto;
+	color: #111;
+	width: 25%;
+	text-align: center;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 35px;
 }
 
 
