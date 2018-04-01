@@ -57,6 +57,20 @@ body {
    
 }
 
+
+.sectionGrid {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    margin-top: 80px;
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+    font-family: 'Open Sans Condensed', sans-serif;
+    color: #111;
+    font-size: 18px;
+    font-weight: lighter;
+}
+
 .icons {
     display: grid;
     grid-template-columns: auto auto;
@@ -78,21 +92,6 @@ body {
     margin-left: auto;
     margin-top: 35px;
 }
-
-.sectionGrid {
-    display: grid;
-    grid-template-columns: auto auto auto;
-    margin-top: 80px;
-    text-align: center;
-    margin-right: auto;
-    margin-left: auto;
-    font-family: 'Open Sans Condensed', sans-serif;
-    color: #111;
-    font-size: 18px;
-    font-weight: lighter;
-}
-
-
 
 .sectionGrid img{
     display: grid;
